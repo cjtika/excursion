@@ -18,3 +18,19 @@ body {
     font-size: 16px;
     text-decoration: underline;
 }
+
+#feature {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#feature h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+#feature p {
+    color: gray;
+    font-size: 21px;
+}
+
+
