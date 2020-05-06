@@ -13,7 +13,7 @@ body {
     font-size: 50px;
 }
 
-#download {
+.download {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
@@ -31,6 +31,18 @@ body {
 #feature p {
     color: gray;
     font-size: 21px;
+}
+
+#coming-soon img {
+    display: block;
+    margin: 20px auto;
+}
+
+#coming-soon h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
 }
 
 
